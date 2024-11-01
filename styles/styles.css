@@ -57,6 +57,10 @@ article h3 {
     font-weight: normal;
 }
 
+a {
+    color:white;
+}
+
 
 a:link, a:visited, a:hover, a:active {
     color: white; /* Ändra till vilken färg du önskar */
