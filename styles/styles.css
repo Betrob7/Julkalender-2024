@@ -128,3 +128,9 @@ footer {
     opacity: 0.8;
 }
 
+
+h3 a {
+    color: white !important;
+    text-decoration: none !important;
+}
+
